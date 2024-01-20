@@ -1,3 +1,5 @@
+| [home page](https://jasmine54.github.io/Data-Visualization/) | [Assignment 1](Assignment-1) | [Assignment 2](Assignment-2) | [Assignment 3&4](Assignment-3&4) | [Final Project I](final-project-part-1) | [Final Project II](final-project-part-2) | [Final Project III](final-project-part-3) |
+
 # Jiaxin's Portfolio for Data Visualization 📊
 This is my public portfolio for Telling Stories with Data at CMU! It's where I'll be showcasing all my awesome work. I hope you enjoy it!
 
@@ -23,6 +25,9 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 
 ## Assignment 1: [Assignment Name](Assignment-1)
 Here is my first data visualization practice!
+
+
+## Assignment 2: [Assignment Name](Assignment-2)
 
 
 ## Assignment 3&4: [Assignment Name](Assignment-3&4)
