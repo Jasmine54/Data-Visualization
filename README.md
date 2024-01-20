@@ -23,7 +23,7 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 
 # Portfolio
 
-## Assignment 1: [Assignment Name](Assignment-1)
+## Assignment 1: [Assignment Name](Assignment-1.md)
 Here is my first data visualization practice!
 
 
@@ -35,11 +35,11 @@ Here is my first data visualization practice!
 
 
 ## Final Project
-[Part I](final-project-part-one)
+[Part I](final-project-part-1)
 
-[Part II](final-project-part-two)
+[Part II](final-project-part-2)
 
-[Part III](final-project-part-three)
+[Part III](final-project-part-3)
 
 
 
