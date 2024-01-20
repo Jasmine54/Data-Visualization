@@ -23,14 +23,14 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 
 # Portfolio
 
-## Assignment 1: [Assignment Name](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-1.md)
+## Assignment 1: [Assignment 1](Assignment-1)
 Here is my first data visualization practice!
 
 
-## Assignment 2: [Assignment Name](Assignment-2)
+## Assignment 2: [Assignment 2](Assignment-2)
 
 
-## Assignment 3&4: [Assignment Name](Assignment-3&4)
+## Assignment 3&4: [Assignment 3&4](Assignment-3&4)
 
 
 
