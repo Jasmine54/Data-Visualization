@@ -23,7 +23,7 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 
 # Portfolio
 
-## Assignment 1: [Assignment Name](Assignment-1)
+## Assignment 1: [Assignment Name](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-1.md)
 Here is my first data visualization practice!
 
 
