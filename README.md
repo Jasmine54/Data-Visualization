@@ -1,6 +1,6 @@
 | [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment 1](Assignment-1) | [Assignment 2](Assignment-2) | [Assignment 3&4](Assignment-3&4) | [Final Project I](final-project-part-1) | [Final Project II](final-project-part-2) | [Final Project III](final-project-part-3) |
 
-# Jiaxin's Portfolio for Data Visualization 📊
+# 🌟 Jiaxin's Portfolio 🌟
 This is my public portfolio for Telling Stories with Data at CMU! It's where I'll be showcasing all my awesome work. I hope you enjoy it!
 
 # About me
@@ -8,7 +8,7 @@ Hi! I'm Jiaxin Hou, but you can call me Jasmine, and I use she/her pronouns. Hai
 
 My educational odyssey has been a tapestry of data-related courses, where I've danced with numbers and trends. I've become friends with Python, R, SQL, and Tableau, exploring their intricate worlds. But that's not all! The realm of AI has caught my fancy too, especially the enigmatic areas of Machine Learning (ML) and the awe-inspiring Generative AI.
 
-What do I love? It's the thrill of unraveling complex puzzles with the golden key of data. My arsenal includes sharp analytical skills, a solid grounding in accounting, and a researcher's keen eye. Let's embark on this exhilarating journey of discovery together! 🌟🚀
+What do I love? It's the thrill of unraveling complex puzzles with the golden key of data. My arsenal includes sharp analytical skills, a solid grounding in accounting, and a researcher's keen eye. Let's embark on this exhilarating journey of discovery together! 🚀
 
 # What I hope to learn
  
@@ -34,7 +34,7 @@ Here is my first data visualization practice!
 
 
 
-## Final project
+## Final Project
 [Part I](final-project-part-one)
 
 [Part II](final-project-part-two)
@@ -43,5 +43,5 @@ Here is my first data visualization practice!
 
 
 
-**AND MORE ......**
+***AND MORE ......***
 
