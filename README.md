@@ -1,4 +1,4 @@
-| [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment 1](Assignment-1) | [Assignment 2](Assignment-2) | [Assignment 3&4](Assignment-3&4) | [Final Project I](final-project-part-1) | [Final Project II](final-project-part-2) | [Final Project III](final-project-part-3) |
+| [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment-1](Assignment-1) | [Assignment-2](Assignment-2) | [Assignment-3&4](Assignment-3&264) | [Final Project I](final-project-part-1) | [Final Project II](final-project-part-2) | [Final Project III](final-project-part-3) |
 
 # 🌟 Jiaxin's Portfolio 🌟
 This is my public portfolio for Telling Stories with Data at CMU! It's where I'll be showcasing all my awesome work. I hope you enjoy it!
@@ -23,23 +23,23 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 
 # Portfolio
 
-## Assignment 1: [Assignment 1](Assignment-1)
+## Assignment 1: [Assignment 1](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-1.md)
 Here is my first data visualization practice!
 
 
-## Assignment 2: [Assignment 2](Assignment-2)
+## Assignment 2: [Assignment 2](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-2.md)
 
 
-## Assignment 3&4: [Assignment 3&4](Assignment-3&4)
+## Assignment 3&4: [Assignment 3&4](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-3%264.md)
 
 
 
 ## Final Project
-[Part I](final-project-part-1)
+[Part I](https://github.com/Jasmine54/Data-Visualization/blob/main/final-project-part-1.md)
 
-[Part II](final-project-part-2)
+[Part II](https://github.com/Jasmine54/Data-Visualization/blob/main/final-project-part-2.md)
 
-[Part III](final-project-part-3)
+[Part III](https://github.com/Jasmine54/Data-Visualization/blob/main/final-project-part-3.md)
 
 
 
