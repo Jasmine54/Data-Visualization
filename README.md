@@ -22,15 +22,18 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 # Portfolio
 
 ## Assignment 1: [Assignment Name](title)
+Here is my first data visualization practice!
 
 
 ## Assignment 3&4: [Assignment Name](title)
 
 
-## Final project: [Final Project Name/Title]
+
+## Final project: [Final Project Name/Title](title)
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
 
-### AND MORE ......
+
+**AND MORE ......**
 
