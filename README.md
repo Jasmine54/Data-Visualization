@@ -1,4 +1,4 @@
-# Jasmine's Portfolio for
+# Jiaxin's Portfolio for Data Visualization 📊
 This is my public portfolio for Telling Stories with Data at CMU! It's where I'll be showcasing all my awesome work. I hope you enjoy it!
 
 # About me
