@@ -15,6 +15,7 @@
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>  
 
+
 ## Line Chart
 
 * Why I chose a subset of the data: In this analysis, I've narrowed the scope to only include the countries with the fifth-highest average debt-to-GDP ratios globally to avoid an overly cluttered and complex visualization. Concentrating on these particular cases allows for a clear, concise depiction of how significant debt levels can shift over time within varied economic climates and under different fiscal policies. This approach not only provides a focused narrative on the challenges and strategies of heavily indebted countries but also ensures the graph remains readable and informative, avoiding the visual noise that would result from plotting all countries simultaneously.
@@ -31,6 +32,7 @@
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 
 **From the chart, we can discern several key points:**
