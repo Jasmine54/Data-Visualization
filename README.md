@@ -27,7 +27,7 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 Here is my first data visualization practice!
 
 
-## Assignment 2: [Assignment 2](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-2.md)
+## Assignment 2: [High Street Coffee Caffeine Content](Assignment-2.md)
 
 
 ## Assignment 3&4: [Assignment 3&4](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-3%264.md)
