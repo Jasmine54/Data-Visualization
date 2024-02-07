@@ -6,6 +6,9 @@
 ## Orginal Data Visualization
 ![image](https://github.com/Jasmine54/Data-Visualization/assets/120682452/abeb637b-e1c5-490c-b20f-06ddbc89617e)
 
+*Source: https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S*
+
+
 **Why did I choose this Data Viz?**
 
 As a coffee enthusiast, the subject of caffeine content in coffee resonates with my personal interests.  I find that understanding the quantity of caffeine I consume is essential, not just for the enjoyment of the beverage but also for maintaining a balanced lifestyle.  Many others share this sentiment due to personal, dietary, or health reasons.
@@ -46,7 +49,7 @@ Access to information about caffeine content empowers us all to make informed de
 
 ## Sketch Out My Solution ##
 
-### IDEA 1: Show the caffeine content per cup with a bar graph
+### Idea 1: Show the caffeine content per cup with a bar graph
 #### 1.1	Use a subdued color palette to distinguish between the brands to avoid an overwhelming visual impact caused by the excessive use of bright colors.
 
 <div class='tableauPlaceholder' id='viz1707262630079' style='position: relative'><noscript><a href='#'><img alt='High Street Coffee Caffeine Content by Brand and ProductThe U.S. Food and Drug Administration considers 400 milligrams  a safe amount of caffeine for healthy adults to consume daily. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Coffee_17071130327220&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Coffee_17071130327220&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Coffee_17071130327220&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
@@ -87,6 +90,7 @@ Access to information about caffeine content empowers us all to make informed de
 </script>
 
 
+
 ## Test My Solution
 
 ### Interviewer Information
@@ -95,6 +99,7 @@ A: 40 years old, sales manager
 
 B: 25 years old, student & coffee lover
 
+
 ### Feedback for Idea 1
 
 | Aspects/Interviewer     |   A   |  B  |
@@ -102,6 +107,7 @@ B: 25 years old, student & coffee lover
 | Information Delivery | The updated visualization offers a clear and direct comparison between caffeine levels across brands, which surpasses the original table format in delivering insights. The bar charts effectively highlight the significant discrepancies in caffeine content among similar coffee types offered by different chains, which is crucial for data-driven decision-making. | The revealed variation in caffeine content between brands is enlightening and prompts reconsideration of habitual choices. |
 | Design Feedback   |The subdued color palette is beneficial in avoiding visual overload. Yet, the colors in version 1.1 could benefit from greater distinction to enhance brand differentiation. The strategic use of brand-associated colors, such as Starbucks' iconic green, aids in immediate brand recognition. Nonetheless, it's important to balance this with adequate contrast to ensure readability against the chart's background. | The colors in 1.1 appear too subdued, and a boost, in contrast, would not only cater to aesthetic preferences but also improve legibility. Besides, The uniform scale on the y-axis across different products might dilute the visual impact of the differences and comparisons.|
 | Recommendations| Considering the granular serving size of single-shot espresso, a per-milliliter comparison could offer more precise insights. This adjustment would enable a more nuanced understanding when contrasting it with larger beverage sizes. | Considering a reevaluation of the chart's structure, such as switching the axes for the product and chain, could result in an enhanced layout and a new perspective.|
+
 
 ### Feedback for Idea 2
 
@@ -115,24 +121,26 @@ B: 25 years old, student & coffee lover
 ## Final Solution
 
 ### High Street Coffe Caffeine Content Per Cup
-<div class='tableauPlaceholder' id='viz1707269003715' style='position: relative'><noscript><a href='#'><img alt='High Street Brands Coffee Caffeine Content Per CupThe U.S. Food and Drug Administration considers 400 milligrams  a safe amount of caffeine for healthy adults to consume daily. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Idea1_17072686653680&#47;PerCup&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Idea1_17072686653680&#47;PerCup' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Idea1_17072686653680&#47;PerCup&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1707270932835' style='position: relative'><noscript><a href='#'><img alt='High Street Brands Coffee Caffeine Content Per CupThe U.S. Food and Drug Administration considers 400 milligrams  a safe amount of caffeine for healthy adults to consume daily. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Idea1_17072686653680&#47;PerCup&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Idea1_17072686653680&#47;PerCup' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Idea1_17072686653680&#47;PerCup&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
- var divElement = document.getElementById('viz1707269003715');                    
+ var divElement = document.getElementById('viz1707270932835');                   
  var vizElement = divElement.getElementsByTagName('object')[0];                    
- vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
- var scriptElement = document.createElement('script');                    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                
+ var scriptElement = document.createElement('script');                 
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
- vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
 
 **Changes I made:**
 
 1.	I use coffee bean icons as a visual metaphor to indicate caffeine levels, bringing an element of creativity and accessibility to the data. This choice, while unconventional for the formal business environment, suits consumer-oriented platforms perfectly, enhancing engagement and making the content more appealing to a wider audience.
 2.	I have restructured the chart to display products on the y-axis and brands/chains on the x-axis. This singular focus per axis simplifies direct comparisons. Additionally, I employ distinct y-axis scales for each coffee type, sharpening the visibility of differences in caffeine content across brands.
-3.	I include a reference to the FDA's recommended caffeine intake, providing a crucial health context. This insightful touch converts numerical data into practical, health-related guidance, adding real-world applicability to the figures.
-4.	I utilize a gradient brown color palette that progressively represents caffeine concentration. The choice of color not only aligns with the coffee theme but also offers an instinctual guide to caffeine levels, facilitating at-a-glance comprehension without detailed analysis.
+3.	I utilize a gradient brown color palette that progressively represents caffeine concentration. The choice of color not only aligns with the coffee theme but also offers an instinctual guide to caffeine levels, facilitating at-a-glance comprehension without detailed analysis.
+4.	I include a reference to the FDA's recommended caffeine intake, providing a crucial health context. This insightful touch converts numerical data into practical, health-related guidance, adding real-world applicability to the figures.
 
+   
 ### How Many Cups of Coffee Should You Drink Every Day?
+
 I attempted to achieve it using Tableau, but it appears that the software does not support this particular function. As a result, I resorted to illustrating my idea manually.
 
 ![e540a33b8f8e08a3495e4e43527bc36](https://github.com/Jasmine54/Data-Visualization/assets/120682452/c0aa422a-b05f-4ab2-bfba-47cfee182f65)
@@ -142,6 +150,8 @@ I attempted to achieve it using Tableau, but it appears that the software does n
 1.	Instead of using bar graphs with cups of different heights, I use coffee cup icons to represent the number of cups one can safely consume from each brand and try to immediately convey quantity through familiar imagery.
 2.	Each brand is represented by a different color, which aligns with the previous feedback about using brand-associated colors for quick recognition.
 3.	The coffee types are now listed vertically with the brand's cup count horizontally, which is a change from the more traditional bar chart layout seen before.
+
+However, the use of icons could become visually cluttered when dealing with large numbers, and the precision of the data might be lost in translation from exact figures to a count of icons.
 
 ### How Much Caffeine Do You Consume Every Day?
 
@@ -166,16 +176,17 @@ To enhance the readers' experience and avoid confusion with the "cups" concept, 
 2. I introduce a benchmark line within the visualization. This line acts as a reference point, informing readers precisely how their current caffeine consumption compares to the FDA's recommended limits. This visual marker is a straightforward method to guide users in understanding and moderating their intake.
 
 
-### Combined Dashboard
 
-From this dashboard, you can easily track the caffeine content in a standard serving size of various drinks from different brands. It also allows you to calculate your caffeine intake if your drink sizes differ from the standard or if you consume multiple cups. Hope this tool can help you make informed choices about your caffeine consumption :relaxed:
+### Combined Dashboard 🌟
 
-<div class='tableauPlaceholder' id='viz1707270018723' style='position: relative'><noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Dashboard_17072699831310&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+From this dashboard, you can easily track the caffeine content in a standard serving size of various drinks from different brands. It also allows you to calculate your caffeine intake if your drink sizes differ from the standard or if you consume multiple cups. Hope this tool can help you make informed choices about your caffeine consumption 🥰
+
+<div class='tableauPlaceholder' id='viz1707271050836' style='position: relative'><noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Dashboard_17072699831310&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>               
 <script type='text/javascript'>                    
- var divElement = document.getElementById('viz1707270018723');                    
- var vizElement = divElement.getElementsByTagName('object')[0];                    
- if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1604px';vizElement.style.maxWidth='1704px';vizElement.style.width='100%';vizElement.style.minHeight='834px';vizElement.style.maxHeight='934px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1604px';vizElement.style.maxWidth='1704px';vizElement.style.width='100%';vizElement.style.minHeight='834px';vizElement.style.maxHeight='934px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}                     
- var scriptElement = document.createElement('script');                    
- scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
- vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+ var divElement = document.getElementById('viz1707271050836');                  
+ var vizElement = divElement.getElementsByTagName('object')[0];           
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1604px';vizElement.style.maxWidth='1704px';vizElement.style.width='100%';vizElement.style.minHeight='834px';vizElement.style.maxHeight='934px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1604px';vizElement.style.maxWidth='1704px';vizElement.style.width='100%';vizElement.style.minHeight='834px';vizElement.style.maxHeight='934px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}     
+ var scriptElement = document.createElement('script');                   
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';     
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
