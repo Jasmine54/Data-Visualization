@@ -6,7 +6,7 @@
 ## Orginal Data Visualization
 ![image](https://github.com/Jasmine54/Data-Visualization/assets/120682452/abeb637b-e1c5-490c-b20f-06ddbc89617e)
 
-*Source: https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S*
+*[Source: https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)*
 
 
 **Why did I choose this Data Viz?**
@@ -157,7 +157,7 @@ However, the use of icons could become visually cluttered when dealing with larg
 
 To enhance the readers' experience and avoid confusion with the "cups" concept, I tried to develop an interactive tool that clearly shows the exact amount of caffeine consumed daily by choosing the type of product and imputing the drink sizes and quantities freely. This interactive feature is designed to deepen readers' engagement by allowing them to connect directly with the data.
 
-*Learn how to create an interactive calculator by watching this tutorial: https://www.youtube.com/watch?v=ybc_8PI0Nus&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=40*
+*I learned how to create an interactive calculator by watching this [tutorial](https://www.youtube.com/watch?v=ybc_8PI0Nus&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=40) .*
 
 <div class='tableauPlaceholder' id='viz1707269843418' style='position: relative'><noscript><a href='#'><img alt='How Much Caffeine Do You Consume Every Day?Choose your product, input your drink sizes and quantities to calculate your daily caffeine intake. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Idea3_17072695311610&#47;Calculator&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Idea3_17072695311610&#47;Calculator' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Idea3_17072695311610&#47;Calculator&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -181,28 +181,29 @@ To enhance the readers' experience and avoid confusion with the "cups" concept, 
 
 From this dashboard, you can easily track the caffeine content in a standard serving size of various drinks from different brands. It also allows you to calculate your caffeine intake if your drink sizes differ from the standard or if you consume multiple cups. Hope this tool can help you make informed choices about your caffeine consumption 🥰
 
-If the content below is not fully visible, please try accessing it through this link: https://public.tableau.com/views/Dashboard_17072699831310/1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link
-<div class='tableauPlaceholder' id='viz1707271050836' style='position: relative'><noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Dashboard_17072699831310&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div> 
+If the content below is not fully visible, please try accessing it through this link: [Caffine Dashboard](https://public.tableau.com/views/Dashboard_17072699831310/1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+<div class='tableauPlaceholder' id='viz1707276151476' style='position: relative'><noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Dashboard_17072699831310&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard_17072699831310&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>   
 
 <script type='text/javascript'>                    
- var divElement = document.getElementById('viz1707271050836');                  
- var vizElement = divElement.getElementsByTagName('object')[0];           
- if (divElement.offsetWidth > 800 )
- {vizElement.style.minWidth='1604px';                               
-  vizElement.style.maxWidth='1704px';
-  vizElement.style.width='100%';
-  vizElement.style.minHeight='834px';
-  vizElement.style.maxHeight='934px';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
- else if ( divElement.offsetWidth > 500 ) 
- {vizElement.style.minWidth='1604px';
-  vizElement.style.maxWidth='1704px';vizElement.style.width='100%';
-  vizElement.style.minHeight='834px';
-  vizElement.style.maxHeight='934px';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+ var divElement = document.getElementById('viz1707276151476');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1604px';
+                                      vizElement.style.maxWidth='1704px';
+                                      vizElement.style.width='100%';
+                                      vizElement.style.minHeight='834px';
+                                      vizElement.style.maxHeight='934px';
+                                      vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+ else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1604px';
+                                           vizElement.style.maxWidth='1704px';
+                                           vizElement.style.width='100%';
+                                           vizElement.style.minHeight='834px';
+                                           vizElement.style.maxHeight='934px';
+                                           vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
  else { vizElement.style.width='100%';
-       vizElement.style.height='1027px';}     
- var scriptElement = document.createElement('script');                   
- scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';     
- vizElement.parentNode.insertBefore(scriptElement, vizElement);             
+       vizElement.style.height='1027px';}                     
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
