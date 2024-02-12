@@ -10,7 +10,7 @@ The final project aims to illuminate the concerning issue of maternal mortality 
 
 Central to the project is the exploration of the disparities in maternal mortality rates among different demographic groups, highlighting how factors such as race, income and education level play a pivotal role in maternal health outcomes. The visualization will not only portray the statistical data but also aim to tell the story behind the numbers, offering insights into the societal and healthcare-related challenges faced by women in the United States. Additionally, the project will critically analyze the causes of maternal deaths, identifying which of these could be preventable with adequate healthcare interventions and policy changes. By doing so, the project aspires to contribute to the ongoing dialogue on improving maternal health care and reducing mortality rates, ultimately pointing towards solutions that could mitigate these deaths in the future.
 
-This comprehensive approach aims not just to present data but to foster a deeper understanding of the complexities surrounding maternal mortality in the US. The project's ultimate goal is to drive awareness, inform policy discussions, and spur action towards enhancing maternal health care systems to safeguard the lives of mothers across the nation.
+This comprehensive approach aims not just to present data but to foster a deeper understanding of the complexities surrounding maternal mortality in the US. The project's ultimate goal is to drive awareness, inform policy discussions, and spur action toward enhancing maternal healthcare systems to safeguard the lives of mothers across the nation.
 
 # Structure
 
@@ -20,11 +20,11 @@ Many maternal deaths can be prevented with enhanced access to quality healthcare
 
 **Targeted Audience:**
 
-- Women want to learn why maternal mortality occurs so they can be better informed, proactive in their healthcare decisions,understanding the risks and advocating for safer maternity care practices.
+- Women want to learn why maternal mortality occurs so they can be better informed and proactive in their healthcare decisions, understanding the risks and advocating for safer maternity care practices.
 - Medical and healthcare practitioners want to identify the critical factors contributing to maternal mortality to enhance patient care, implement best practices, and reduce preventable deaths.
-- Policy Makers seek to understand the systemic issues and social determinants affecting maternal health to develop and implement targeted policies and programs.
+- Policymakers seek to understand the systemic issues and social determinants affecting maternal health to develop and implement targeted policies and programs.
 
-## Stroytelling Structure:
+## Storytelling Structure:
 
 **Setup: The Rising Concern of US Maternal Mortality**
 - Define maternal mortality: Outline what constitutes maternal mortality, emphasizing its significance as a key indicator of healthcare quality and women's health status.
@@ -55,7 +55,7 @@ The utilization of these data sources in our project is multifaceted. Initially,
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Trends in maternal mortality 2000 to 2020: estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division | Punlicly-accessible location: [https://www.who.int/publications/i/item/9789240068759] |   The report presents internationally comparable global, regional and country-level estimates and trends for maternal mortality between 2000 and 2020.  |
+|Trends in maternal mortality 2000 to 2020: estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division | Punlicly-accessible location: [https://www.who.int/publications/i/item/9789240068759] Github link: [WHO Data (2000-2020).zip]|  The report presents internationally comparable global, regional and country-level estimates and trends for maternal mortality between 2000 and 2020. |
 | Evaluation of the Pregnancy Status Checkbox on the Identification of Maternal Deaths  | [https://www.cdc.gov/nchs/data/nvsr/nvsr69/nvsr69_01-508.pdf]  | This report describes the use of a set of sophisticated statistical models to look at trends over this period to better understand the impact of the gradual adoption of the checkbox on national statistics. |
 | VSRR Provisional Maternal Death Counts and Rates | github link:  |   This dataset           |
 |Pregnancy-Related Deaths: Data from Maternal Mortality Review Committees in 36 US States, 2017–2019 | https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html| Data on 1,018 pregnancy-related deaths among residents of 36 states from 2017–2019 were shared with CDC through the Maternal Mortality Review Information Application (MMRIA).|
