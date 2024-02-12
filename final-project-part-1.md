@@ -12,7 +12,7 @@ Central to the project is the exploration of the disparities in maternal mortali
 
 This comprehensive approach aims not just to present data but to foster a deeper understanding of the complexities surrounding maternal mortality in the US. The project's ultimate goal is to drive awareness, inform policy discussions, and spur action towards enhancing maternal health care systems to safeguard the lives of mothers across the nation.
 
-## Structure
+# Structure
 
 **One Sentence Summary:**
 
@@ -24,7 +24,7 @@ Many maternal deaths can be prevented with enhanced access to quality healthcare
 - Medical and healthcare practitioners want to identify the critical factors contributing to maternal mortality to enhance patient care, implement best practices, and reduce preventable deaths.
 - Policy Makers seek to understand the systemic issues and social determinants affecting maternal health to develop and implement targeted policies and programs.
 
-## Structure:
+## Stroytelling Structure:
 
 **Setup: The Rising Concern of US Maternal Mortality**
 - Define maternal mortality: Outline what constitutes maternal mortality, emphasizing its significance as a key indicator of healthcare quality and women's health status.
