@@ -1,6 +1,6 @@
 | [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment 1](Assignment-1) | [Assignment 2](Assignment-2) | [Assignment 3&4](Assignment-3&4) | [Final Project I](final-project-part-1) | [Final Project II](final-project-part-2) | [Final Project III](final-project-part-3) |
 
-# Maternal Mortality in the US: Understanding the Trends, Tackling the Causes
+# Maternal Mortality in the US: Tackling Disparities
 
 # Outline
 
@@ -8,7 +8,7 @@
 
 The final project aims to illuminate the concerning issue of maternal mortality in the United States, a critical public health matter that has seen fluctuating trends over the years. Through comprehensive data visualization, the project intends to dissect and present the progression of maternal mortality rates over time, shedding light on how these rates have evolved and the underlying factors contributing to these changes. By delving into various dimensions such as age, race, education level, and causes of death, the project seeks to provide a multidimensional analysis of the factors influencing maternal mortality.
 
-Central to the project is the exploration of the disparities in maternal mortality rates among different demographic groups, highlighting how factors such as race, income and education level play a pivotal role in maternal health outcomes. The visualization will not only portray the statistical data but also aim to tell the story behind the numbers, offering insights into the societal and healthcare-related challenges faced by women in the United States. Additionally, the project will critically analyze the causes of maternal deaths, identifying which of these could be preventable with adequate healthcare interventions and policy changes. By doing so, the project aspires to contribute to the ongoing dialogue on improving maternal health care and reducing mortality rates, ultimately pointing towards solutions that could mitigate these deaths in the future.
+The project focuses on exploring disparities in maternal mortality rates among different demographic groups, highlighting variations in maternal health outcomes across races.The visualization will not only portray the statistical data but also aim to tell the story behind the numbers, offering insights into the societal and healthcare-related challenges faced by women in the United States. Additionally, the project will critically analyze the causes of maternal deaths, identifying which of these could be preventable with adequate healthcare interventions and policy changes. By doing so, the project aspires to contribute to the ongoing dialogue on improving maternal health care and reducing mortality rates, ultimately pointing towards solutions that could mitigate these deaths in the future.
 
 This comprehensive approach aims not just to present data but to foster a deeper understanding of the complexities surrounding maternal mortality in the US. The project's ultimate goal is to drive awareness, inform policy discussions, and spur action toward enhancing maternal healthcare systems to safeguard the lives of mothers across the nation.
 
@@ -31,7 +31,7 @@ Many maternal deaths can be prevented with enhanced access to quality healthcare
 - Present the Maternal Mortality Rate: Illustrate the trend in the United States over recent decades, comparing it with other developed countries to highlight significant disparities and showcase the pressing need for increased attention and action.
 
 **Conflict: Unveiling the Complexities Behind the Numbers**
-- Demographic Disparities: Delve into how age, race, and education level influence maternal mortality rates.
+- Demographic Disparities: Delve into how race and education level influence maternal mortality rates.
 - Leading Causes of Maternal Death: Discuss the primary medical reasons behind maternal deaths.
   
 **Resolution: Towards Preventability and Equity**
@@ -40,9 +40,66 @@ Many maternal deaths can be prevented with enhanced access to quality healthcare
   
 # Initial Sketches
 
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
+<div class='tableauPlaceholder' id='viz1707885309929' style='position: relative'><noscript><a href='#'><img alt='U.S. Maternal Mortality Rate Exceeds Other Developed Countries in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMRinmaindevelopedcontries&#47;ComparisionWithOtherContries&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMRinmaindevelopedcontries&#47;ComparisionWithOtherContries' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMRinmaindevelopedcontries&#47;ComparisionWithOtherContries&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1707885309929');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
-Text here...
+<div class='tableauPlaceholder' id='viz1707885345781' style='position: relative'><noscript><a href='#'><img alt='U.S. Maternal Mortality Rate Exceeds Other Developed Countries in 2020 Due To High Maternal Death Rates Among Black Women ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMRconsideringraceinUS&#47;ConsideringRace&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMRconsideringraceinUS&#47;ConsideringRace' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMRconsideringraceinUS&#47;ConsideringRace&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1707885345781');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
+
+<div class='tableauPlaceholder' id='viz1707885365161' style='position: relative'><noscript><a href='#'><img alt='U.S. Maternal Mortality Rate Exceeds Other Developed Countries in 2020 Due To High Maternal Death Rates Among Black Women ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMRconsideringrace2&#47;ConsideringRace2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MMRconsideringrace2&#47;ConsideringRace2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MM&#47;MMRconsideringrace2&#47;ConsideringRace2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                  
+  var divElement = document.getElementById('viz1707885365161');                 
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';               
+  var scriptElement = document.createElement('script');                   
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);            
+</script>
+
+<div class='tableauPlaceholder' id='viz1707885410555' style='position: relative'><noscript><a href='#'><img alt='Gaining Higher Education Didn&#39;t Change the Overall MMR for Black MothersData Source: Racial&#47;Ethnic Disparities in Pregnancy-Related Deaths — United States, 2007–2016 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ed&#47;EducationBackground_17078820869440&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EducationBackground_17078820869440&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ed&#47;EducationBackground_17078820869440&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>                
+<script type='text/javascript'>                 
+  var divElement = document.getElementById('viz1707885410555');                  
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';           
+  var scriptElement = document.createElement('script');                 
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);              
+</script>
+
+<div class='tableauPlaceholder' id='viz1707885449804' style='position: relative'><noscript><a href='#'><img alt='Leading Underlying Causes of Pregnancy-Related Deaths for Black Mothers(Only includes the primary reasons, hence the total percentage does not add up to 100%) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DeathCausesofBlackMothers&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DeathCausesofBlackMothers&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DeathCausesofBlackMothers&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>               
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1707885449804');                 
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                 
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);              
+</script>
+
+<div class='tableauPlaceholder' id='viz1707885491530' style='position: relative'><noscript><a href='#'><img alt='Leading Underlying Causes of Pregnancy-Related Deaths for White Mothers(Only includes the primary reasons, hence the total percentage does not add up to 100%) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DeathCausesofWhiteMothers&#47;12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DeathCausesofWhiteMothers&#47;12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DeathCausesofWhiteMothers&#47;12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>               
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1707885491530');                  
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);              
+</script>
+
 
 # The Data
 
