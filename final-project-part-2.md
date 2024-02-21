@@ -60,16 +60,17 @@ To select representative individuals for the interviews, I used a stratified sam
 
 
 ### Interview findings
-- Interview 1:
-- Interview 2:
-- Interview 3:
+- Interviewee 1:
+- Interviewee 2:
+- Interviewee 3:
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Data Visualization Evaluation  |My initial reaction was one of appreciation for the clarity and impact of the visualizations. They effectively communicate the urgency of the issue. However, some graphs could use additional context to fully convey the complexities behind the data.  |||
-| Narrative Structure | The flow of the story is logical and leads the reader through the issue in a structured manner. There were a few sections where I felt additional links between data points could provide a stronger narrative thread.     |             |             |
-|                       |                                |             |             |
-|                         |                                |             |             |
+| Data Visualization Evaluation  | My initial reaction was one of appreciation for the clarity and impact of the visualizations. They effectively communicate the urgency of the issue. However, some graphs could use additional context to fully convey the complexities behind the data.  |||
+| Narrative Structure | The flow of the story is logical and leads the reader through the issue in a structured manner. There were a few sections where I felt additional links between data points could provide a stronger narrative thread. Regarding the narrative thread, the section on interventions and solutions could be better linked to the data presented earlier. By directly connecting the proposed solutions to the specific issues highlighted in the data, the narrative would become more cohesive and impactful, providing a clearer pathway from problem to action.   |             |             |
+| Emotional and Cognitive Impact  |  The project does a good job highlighting the significance of the issue. The visualizations stirred a sense of urgency in me, and the narrative reinforced my understanding of the systemic nature of these disparities.                              |             |             |
+| Areas for Improvement                        |   While the visualizations are compelling, integrating interactive elements could enhance user engagement. I would also suggest a section that provides actionable steps for public health officials like myself.                             |             |             |
+|||||
 
 
 # Identified changes for Part III
