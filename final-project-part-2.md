@@ -5,7 +5,7 @@
 
 ## Wireframes/Storyboards
 
-<script src="https://carnegiemellon.shorthandstories.com/savingmothersinus/embed.js"> </script>
+<script src="https://carnegiemellon.shorthandstories.com/savingmothersinus/embed.js"></script>
 
 
 
