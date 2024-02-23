@@ -2,7 +2,7 @@
 
 # Maternal Mortality in the US: Saving Black Mothers
 
-## Wireframes / storyboards
+## Wireframes/Storyboards
 
 <script src="https://carnegiemellon.shorthandstories.com/savingmothersinus/embed.js"> </script>
 
@@ -66,7 +66,7 @@ To select representative individuals for the interviews, I used a stratified sam
 - Any final thoughts or additional feedback?
 
 
-### Interview findings
+### Interview Findings
 
 | Sections               | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -77,30 +77,58 @@ To select representative individuals for the interviews, I used a stratified sam
 | **Areas for Improvement**     |   I would also suggest a section that provides actionable steps for public health officials like myself. |  For improvement, I suggest including more real-life stories to make the data more relatable. Additionally, incorporating data on successful community-based interventions could provide valuable insights for practitioners like myself.         |   While the visualizations are compelling, integrating interactive elements could enhance user engagement. Additionally, incorporating data on successful interventions could provide valuable insights for practitioners and policymakers.         |
 
 
-# Identified changes for Part III
--
--Data Visualizayion
-For education
-change the bar chart of education background to a line chart to show the change of MMR with the improvement of education background.
-change the bar chart to compare the mothers death rate of less 
-For cause
-make the labels larger to make it more visible
+## Identified Changes for Part III
+Anticipated Changes are ranked in order of priority. In each section, prioritize the top 3 changes. Changes numbered greater than 3 will be considered later. Altough i have proitized the changes, due to the limited time, there are about 15 changes in total. They  might not be all completed by the final project III.
+
+### Section 1: What do we mean by Maternal Mortality Ratio?
+
+**Narrative:**
+
+In the first paragraph below the title, I will begin by quoting the World Health Organization's definition of Maternal Mortality Ratio (MMR) to provide the audience with a clear understanding of MMR. Following this, I will then compare MMR with the associated concept of maternal death during pregnancy to enhance the audience's comprehension.
+
+**Visualization:**
+
+For the first concept explanation image, I will utilize short bullet points and larger word sizes to effectively convey the differences between the three concepts. This approach will prevent clutter and ensure readability for the audience.
+
+### Section 2: How is the U.S. MMR?
+
+**Visualization:**
+
+1. First bar chart: Enhance the visibility of the labels by increasing their font size.
+2. Second bar chart: Add a wireframe to enclose the four bars related to the United States and bolden their labels to emphasize the domestic situation. Additionally, enlarge the numerical label for "US Black" and include a note next to it indicating the multiple compared to other countries or racial groups within the US.
+3. Consider placing the two graphs side by side to facilitate a direct comparison of the bar sizes. This will help to highlight the significantly higher bar for 'US BLACK' and the relatively lower bars of others **after 'US BLACK' has been added to the graph.**
+
+### Section 3: Disproportionately High MMR among Black Women in the US
+
+**Visualization:**  
+
+1. First bar chart: Replace it with a line chart, and expand the time frame to 1915-2021, using different colored lines to represent the MMR of each racial group. This will illustrate the longstanding existence of disparities and show an increasing trend of Black women's MMR over time.
+2. Second bar chart: Replace it with a line chart featuring different slopes and points to illustrate that improvement in education does not lead to a significant reduction in MMR for black women, but increases the disparities among different races. This will help to demonstrate that the issue is systemic and not easily addressed through educational interventions.
+3. Add an x-axis representing different racial groups to both charts.
+4. Create a simple table comparing the MMR ratios of black and white women in 1915 and 2021, using the increase in multiples to illustrate the expanding disparity over time. 
+
+### Section 4: Why Do Black Mothers Die?
+
+**Visualization:**
+Enhance the visibility of the labels to ensure they are easily discernible at a glance.
+
+**Narrative:**
+Consider incorporating comparisons with other racial groups for specific causes to effectively illustrate any disparities that exist. 
+
+### Section 5: Can those causes be treated or prevented?
+
+**Narrative:**
+
+1. Clearly state the preventive measures and treatments for each main cause, along with the extent to which they can be treated (numeric data on preventability for some causes are not available, I will provide a classification range from minor to moderate to high or 1-5).
+2. After demonstrating the potential impact on reducing mortality rates, it is crucial to gather real-life examples and personal accounts from Black mothers who have faced obstacles in accessing healthcare or have encountered bias within the medical system. These firsthand stories can offer a more compelling and relatable depiction of the challenges at hand, underscoring the urgency for initiatives to address the scarcity of medical resources.
+   
+
+### Section 6: Call for Action
+
+**Narrative:**
+
+To enhance the section, consider dividing it into two focused segments. The first part should target **policymakers**, urging them to craft specific policies addressing preventable pregnancy-related diseases, drawing from data insights. They should review and possibly extend the scope of current policies to broaden their impact. The second segment should appeal to **college students in public policy and social workers**, encouraging them to bolster advocacy efforts through volunteering and donations to nonprofits.
 
 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
