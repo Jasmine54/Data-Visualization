@@ -2,9 +2,12 @@
 
 # Maternal Mortality in the US: Saving Black Mothers
 
+
 ## Wireframes/Storyboards
 
 <script src="https://carnegiemellon.shorthandstories.com/savingmothersinus/embed.js"> </script>
+
+
 
 
 ## User Research 
@@ -75,6 +78,8 @@ To select representative individuals for the interviews, I used a stratified sam
 | **Narrative Structure**| The flow of the story is logical and leads the reader through the issue in a structured manner. There were a few sections where I felt additional links between data points could provide a stronger narrative thread. For instance, the section on the causes of maternal mortality among Black mothers could be more closely connected to the subsequent section on preventable measures, illustrating how addressing these causes can directly impact reducing mortality rates. The call for action section could also be better linked to the data presented earlier (regarding preventable diseases for pregnancy, what can we do). The narrative would become more cohesive and impactful by directly connecting the proposed solutions to the specific issues highlighted in the data, providing a clearer pathway from problem to action.    |   The story flowed well overall, but there were moments where I felt a stronger connection between the data and the real-life experiences of the mothers could have been made. You can add some real cases in sections discussing the systemic factors or the causes of maternal mortality. For example, personal stories or testimonials from mothers who have faced challenges in accessing healthcare or who have experienced bias in the medical system could provide a more vivid and relatable illustration of the issues. This would not only enhance the emotional impact of the narrative but also help readers understand the human side of the data.          | Considering your target audience, it would be beneficial to segment them based on their backgrounds and influence and provide tailored suggestions to maximize the positive impact they can make in the 'call for action' section.|
 | **Emotional and Cognitive Impact** |  The project does a good job of highlighting the significance of the issue. The visualizations stirred a sense of urgency in me, and the narrative reinforced my understanding of the systemic nature of these disparities.  |  The data presentation deepened my understanding of the issue and will inform my work moving forward. In the 'Can those causes be treated or prevented' part, it is crucial to provide more data and create clearer visualizations to demonstrate the impact of taking action. This can be a visualization of the total number of preventable deaths and the potential lives that could be saved if we take action. By doing so, you can evoke stronger emotions and garner support for subsequent actions.  | The data presentation deepened my understanding of the issue and will inform my future studies in data science and public health. |
 | **Areas for Improvement**     |   I would also suggest a section that provides actionable steps for public health officials like myself. |  For improvement, I suggest including more real-life stories to make the data more relatable. Additionally, incorporating data on successful community-based interventions could provide valuable insights for practitioners like myself.         |   While the visualizations are compelling, integrating interactive elements could enhance user engagement. Additionally, incorporating data on successful interventions could provide valuable insights for practitioners and policymakers.         |
+
+
 
 
 ## Identified Changes for Part III
