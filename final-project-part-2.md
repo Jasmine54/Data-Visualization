@@ -5,6 +5,11 @@
 
 ## Wireframes/Storyboards
 
+**Note:**
+
+1. There may be slight discrepancies between the shorthand embedded codes and the actual webpage. If the content is not visible below, we recommend visiting [this link](https://carnegiemellon.shorthandstories.com/savingmothersinus/index.html) for a perfect view.
+2. All **bar charts, graph charts, and heatmaps** were created using Tableau. I opted to use images instead of embed codes because embedding HTML codes can lead to changes in the graph window size, causing distorted proportions and requiring frequent scrolling to view the full graph. I will work on finding a solution for this issue later.
+   
 <script src="https://carnegiemellon.shorthandstories.com/savingmothersinus/embed.js"></script>
 
 
