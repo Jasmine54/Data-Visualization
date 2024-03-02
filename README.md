@@ -1,4 +1,4 @@
-| [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment-1](Assignment-1.md) | [Assignment-2](Assignment-2.md) | [Assignment-3&4](Assignment-3&264.md) | [Final Project I](final-project-part-1.md) | [Final Project II](final-project-part-2.md) | [Final Project III](final-project-part-3.md) |
+| [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment-1](Assignment-1.md) | [Assignment-2](Assignment-2.md) | [Final Project I](final-project-part-1.md) | [Final Project II](final-project-part-2.md) | [Final Project III](final-project-part-3.md) |
 
 # 🌟 Jiaxin's Portfolio 🌟
 This is my public portfolio for Telling Stories with Data at CMU! It's where I'll be showcasing all my awesome work. I hope you enjoy it!
@@ -24,17 +24,17 @@ What do I love? It's the thrill of unraveling complex puzzles with the golden ke
 # Portfolio
 
 ## Assignment 1: [General Government Debt Analysis](Assignment-1.md)
+
 Here is my first data visualization practice!
 
 
 ## Assignment 2: [High Street Coffee Caffeine Content](Assignment-2.md)
 
+Here I became more mature!
 
-## Assignment 3&4: [Assignment 3&4](https://github.com/Jasmine54/Data-Visualization/blob/main/Assignment-3%264.md)
+## Final Project - Saving Black Mothers (From Disparity to Action: Preventing Maternal Mortality in America)
 
-
-
-## Final Project
+Take a moment to explore my final project! You can dive into Part III to experience the final version of my story or start from Part I to III to easily track and follow along with my progress.
 
 [Final Project I](final-project-part-1.md)
 [Final Project II](final-project-part-2.md) 
