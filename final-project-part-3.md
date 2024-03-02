@@ -1,4 +1,4 @@
-| [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment 1](Assignment-1) | [Assignment 2](Assignment-2) | [Final Project I](final-project-part-1) | [Final Project II](final-project-part-2) | [Final Project III](final-project-part-3) |
+| [Home Page](https://jasmine54.github.io/Data-Visualization/) | [Assignment 1](Assignment-1.md) | [Assignment 2](Assignment-2.md) | [Final Project I](final-project-part-1.md) | [Final Project II](final-project-part-2.md) | [Final Project III](final-project-part-3.md) |
 
 # Saving Black Mothers--From Disparity to Action: Preventing Maternal Mortality in America 
 
@@ -92,7 +92,7 @@ All references, including text, photos, videos, and data sources, are also prope
 
 2. “Pennsylvania Department of Health Programs, Services and Health Information.” Department of Health. Accessed February 22, 2024. https://www.health.pa.gov/Pages/default.aspx.
 
-3. “Maternal Mortality in the United States: A Primer.” Cause of Maternal Mortality in U.S. | Commonwealth Fund, December 16, 2020. https://www.commonwealthfund.org/publications/issue-brief-report/2020/dec/maternal-mortality-united-states-primer.
+3. “Maternal Mortality in the United States: A Primer.” Cause of Maternal Mortality in U.S. Commonwealth Fund, December 16, 2020. https://www.commonwealthfund.org/publications/issue-brief-report/2020/dec/maternal-mortality-united-states-primer.
 
 4. “Report from Nine Maternal Mortality Review Committees.” Centers for Disease Control and Prevention, 2018. https://stacks.cdc.gov/view/cdc/51660.
 
@@ -103,12 +103,9 @@ All references, including text, photos, videos, and data sources, are also prope
 ### Other Data Sources
 
 1. “Trends in Maternal Mortality 2000 to 2020: Estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division.” World Health Organization, February 23, 2023. https://www.who.int/publications/i/item/9789240068759.
-
 2. “Provisional Maternal Death Counts.” Centers for Disease Control and Prevention, October 17, 2023. https://www.cdc.gov/nchs/nvss/vsrr/provisional-maternal-deaths.htm.
-
-3. Petersen, Emily E., Nicole L. Davis, David Goodman, Shanna Cox, Carla Syverson, Kristi Seed, Carrie Shapiro-Mendoza, William M. Callaghan, and Wanda Barfield. “Racial/Ethnic Disparities in Pregnancy-Related Deaths — United States, 2007–2016.” MMWR. Morbidity and Mortality Weekly Report 68, no. 35 (September 6, 2019): 762–65. https://doi.org/10.15585/mmwr.mm6835a3.
-
-4. Fishman, Samuel H., Robert A. Hummer, Gracia Sierra, Taylor Hargrove, Daniel A. Powers, and Richard G. Rogers. “Race/Ethnicity, Maternal Educational Attainment, and Infant Mortality in the United States.” Biodemography and Social Biology 66, no. 1 (January 2, 2021): 1–26. https://doi.org/10.1080/19485565.2020.1793659.
+3. Petersen, Emily E., Nicole L. Davis, David Goodman, Shanna Cox, Carla Syverson, Kristi Seed, Carrie Shapiro-Mendoza, William M. Callaghan, and Wanda Barfield. “Racial/Ethnic Disparities in Pregnancy-Related Deaths — United States, 2007–2016.” MMWR. Morbidity and Mortality Weekly Report 68, no. 35 (September 6, 2019): 762–65. https://doi.org/10.15585/mmwr.mm6835a3.
+4. Fishman, Samuel H., Robert A. Hummer, Gracia Sierra, Taylor Hargrove, Daniel A. Powers, and Richard G. Rogers. “Race/Ethnicity, Maternal Educational Attainment, and Infant Mortality in the United States.” Biodemography and Social Biology 66, no. 1 (January 2, 2021): 1–26. https://doi.org/10.1080/19485565.2020.1793659.
 
 
 ## Final thoughts-Some Takeaway 
