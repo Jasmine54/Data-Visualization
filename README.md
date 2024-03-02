@@ -36,9 +36,14 @@ Here I became more mature!
 
 Take a moment to explore my final project! You can dive into Part III to experience the final version of my story or start from Part I to III to easily track and follow along with my progress.
 
-[Final Project I](final-project-part-1.md)
-[Final Project II](final-project-part-2.md) 
-[Final Project III](final-project-part-3.md)
+**[Final Project I](final-project-part-1.md)**
+
+
+**[Final Project II](final-project-part-2.md)**
+
+
+**[Final Project III](final-project-part-3.md)**
+
 
 
 
