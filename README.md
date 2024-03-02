@@ -30,19 +30,24 @@ Here is my first data visualization practice!
 
 ## Assignment 2: [High Street Coffee Caffeine Content](Assignment-2.md)
 
-Here I became more mature!
+I have matured a lot through this recreation and redesign of MakeOverMonday's dataset. I'm excited to share the progress in data visualization I've made since the last critique.
 
-## Final Project - Saving Black Mothers (From Disparity to Action: Preventing Maternal Mortality in America)
+## Final Project
+## Saving Black Mothers (From Disparity to Action: Preventing Maternal Mortality in America)
 
 Take a moment to explore my final project! You can dive into Part III to experience the final version of my story or start from Part I to III to easily track and follow along with my progress.
 
 **[Final Project I](final-project-part-1.md)**
 
+In Part I, I crafted a pitch for my final presentation that included references to my working datasets. Additionally, I outlined the storytelling approach, including the method and medium I planned to use.
 
 **[Final Project II](final-project-part-2.md)**
 
+In Part II, I focused on refining my scope and honing in on the final project. I started crafting the narrative that would guide the reader through my story, incorporating sketches, wireframes, and storyboards. I also conducted user research to improve and enrich my idea.
 
 **[Final Project III](final-project-part-3.md)**
+
+Here is my [final deliverable](https://carnegiemellon.shorthandstories.com/savingmothersinus/index.html), which is publicly accessible.
 
 
 
