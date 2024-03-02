@@ -7,6 +7,8 @@
 
 There may be slight discrepancies between the shorthand embedded codes and the actual webpage. If the content is not visible below, I recommend visiting [this link](https://carnegiemellon.shorthandstories.com/savingmothersinus/index.html) for a perfect view.
 
+<script src="https://carnegiemellon.shorthandstories.com/savingmothersinus/embed.js"></script>
+
 
 
 ## Changes Made Since Part II
@@ -65,7 +67,9 @@ After demonstrating the potential impact of reducing mortality rates, I included
 
 To enhance the section, I divided it into two focused segments. The first part targets policymakers, urging them to craft specific policies addressing preventable pregnancy-related diseases, drawing from data insights. They should review and possibly extend the scope of current policies to broaden their impact. The second segment appeals to college students in public policy, encouraging them to bolster advocacy efforts through volunteering and donations to nonprofits.
 
-## Another big change is that I have replaced some Tableau graphs' embedded code with JPG images. Although it reduces the interactivity of the graph, I ensured that the images provide all the necessary information for the audience. This change has the benefit of preventing the graphs from being squeezed and eliminates the need for the audience to scroll up, down, left, and right to view the entire content.
+**Another Change:**
+I have replaced four of five Tableau graphs' embedded code with JPG images. Although it reduces the interactivity of the graph, I ensured that the images provide all the necessary information for the audience. This change has the benefit of preventing the graphs from being squeezed and eliminates the need for the audience to scroll up, down, left, and right to view the entire content. This also allows me to add labels and notes to the original graph, essentially enhancing it with additional information.
+
 
 ## The Audience
 
@@ -115,4 +119,4 @@ Another critical learning was the impact of narrative structure on audience enga
 
 Additionally, incorporating real-life stories and accounts from Black mothers provided a human element to the data story, making the statistics more relatable and compelling. This design decision highlighted the real-world impact of the data being presented, fostering a deeper understanding and empathy among the audience.
 
-lastly, 我很遗憾由于个人突发急性肠胃炎没有能参加presentation的环节，无法了解观众对我故事的最直观反映，也无法根据他们的反馈做出及时调整
+Lastly, I am sincerely sorry that I couldn't participate in the presentation due to a sudden acute gastrointestinal illness. As a result, I missed the opportunity to directly observe the audience's immediate reaction to my story and make timely adjustments based on their feedback.
